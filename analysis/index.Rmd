@@ -12,7 +12,7 @@ Welcome to my research website.
 
 * [Teeth growth analysis](teeth.html)
 
-Links for another *Tiktaalik roseae* teammate:
+Link for another *Tiktaalik roseae* teammate:
 
 [Nathaniel](https://nathaniel-wright.github.io/myproject/)
 
