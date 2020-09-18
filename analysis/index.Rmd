@@ -12,4 +12,30 @@ Welcome to my research website.
 
 * [Teeth growth analysis](teeth.html)
 
+@Chery Cherian :
+[Julia](https://j-shangguan.github.io/HTML-test/)
+
+@Julia Shangguan :
+[Alec](https://alecwilken.github.io/myproject/)
+
+@Alec Wilken :
+[Benjamin](https://btnicholson.github.io/myproject2/)
+
+@Benjamin Nicholson :
+[Cassandra](https://cazeredotseng.github.io/myproject/)
+
+@Cassandra Azeredo-Tseng :
+[Jovian](https://jovianyu.github.io/tiktaalik/)
+
+@Jovian Yu :
+[Laura](https://lcespedesarias.github.io/workflowr_tutorial/)
+
+@Laura Céspedes :
+[Nathaniel](https://nathaniel-wright.github.io/myproject/)
+
+@Nathaniel Wright :
+[Peijia](https://peijiay.github.io/myproject/index.html)
+
+@PeijiaYu :
+[Chery](https://cherianchery.github.io/MyProjectTest/)
 
